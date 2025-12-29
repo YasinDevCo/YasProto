@@ -29,7 +29,7 @@ export function Header() {
           href="/"
           className="flex items-center gap-2 text-xl font-bold text-foreground transition-colors hover:text-primary"
         >
-          <span className="bg-gradient-to-l from-primary to-secondary bg-clip-text text-transparent">پورتفولیو</span>
+          <span className="bg-gradient-to-l from-primary to-secondary bg-clip-text text-transparent">YasinDevCo</span>
         </Link>
 
         {/* Desktop Navigation */}

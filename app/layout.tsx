@@ -6,16 +6,13 @@ import "./globals.css";
 import Providers from "./providers"; // ← فقط این خط رو اضافه کن
 
 export const metadata: Metadata = {
-  title: "پورتفولیو | توسعه‌دهنده وب",
-  description: "پورتفولیو شخصی - توسعه‌دهنده فرانت‌اند و طراح وب",
-  generator: "v0.app",
+  title: "YasinDevCo | توسعه‌دهنده وب",
+  description: "YasinDevCo طراح وب",
   icons: {
     icon: [
-      { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
-      { url: "/icon-dark-32x32.png", media: "(prefers-color-scheme: dark)" },
-      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/avatar.png" },
+
     ],
-    apple: "/apple-icon.png",
   },
 };
 
